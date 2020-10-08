@@ -2,11 +2,11 @@
 
 ## Dongwon Paek | underflow101
 
-🌱 Current Interest : On-Device AI(Embedded AI), Model Compression, Python, C++, Golang
+Current Interest : On-Device AI(Embedded AI), Model Compression, Python, C++, Golang
 
-🔭 Currently working on [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) <b>Runner level</b>
+Currently working on [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) <b>Runner level</b>
 
-✈️ Favorite Quote : If you want to create something, you must start over again: `sudo rm -rf /`
+Favorite Quote : If you want to create something, you must start over again: `sudo rm -rf /`
 
 [![Dongwon Paek's Github Stats](https://github-readme-stats.vercel.app/api?username=underflow101&count_private=true&include_all_commits=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
