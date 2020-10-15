@@ -4,9 +4,13 @@
 
 Current Interest : On-Device AI(Embedded AI), Model Compression, Python, C++, Golang
 
+<b>SOSCON 2020 Session Presenter</b> [Link](https://www.soscon.net/Session/Section/14)
+
 Currently working on [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) <b>Runner level</b>
 
 Favorite Quote : If you want to create something, you must start over again: `sudo rm -rf /`
+
+Feel free to follow me or ask any questions: E-mail = ikarus125@gmail.com
 
 [![Dongwon Paek's Github Stats](https://github-readme-stats.vercel.app/api?username=underflow101&count_private=true&include_all_commits=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
