@@ -6,7 +6,11 @@ Current Interest : On-Device AI(Embedded AI), Model Compression, Python, C++, Go
 
 <b>SOSCON 2020 Session Presenter</b> [Link](https://www.soscon.net/Session/Section/14)
 
-Currently working on [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) <b>Runner level</b>
+Currently working on [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) <b>MASTER level</b><br>
+2020.07.23 : Applied as Toddler Level&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+2020.08.03 : Achieved First Walker Level<br>
+2020.08.14 : Achieved First Runner Level<br>
+2020.10.30 : Achieved First Master Level<br>
 
 Favorite Quote : If you want to create something, you must start over again: `sudo rm -rf /`
 
