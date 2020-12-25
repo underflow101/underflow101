@@ -22,5 +22,3 @@ Feel free to follow me or ask any questions: [E-mail] ikarus125@gmail.com
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://underflow101.tistroy.com/)](https://underflow101.tistory.com/)
 
 </div>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=underflow101&layout=compact&theme=calm)](https://github.com/underflow101/github-readme-stats)-->
