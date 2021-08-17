@@ -2,7 +2,7 @@
 
 ## Dongwon Paek | underflow101
 
-Current Interest : On-Device AI(Embedded AI), Model Compression, Python, C++, Golang, Software Architecture
+Current Interest : NLP, On-Device AI(Embedded AI), Model Compression, Computer Vision
 
 <b>SOSCON 2020 Session Presenter</b> [Link](https://www.soscon.net/Session/Section/14)
 
